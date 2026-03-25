@@ -1,3 +1,5 @@
+## **DEEH SMP**
+
 Oiekdee survival server (deehsmp) is Minecraft bedrock vanilla survival server aimed at creating a comfortable Survival environment that allows you to achieve achivement. You don't need to download any additional Addons to join this server. To join this server you must agree to the server rules.
 
 Rules:
