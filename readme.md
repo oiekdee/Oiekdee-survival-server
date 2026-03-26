@@ -1,5 +1,3 @@
-Hello, I would like to invite you to join my Minecraft server "Oiekdee survival server"/"Dee SMP"
-
 Oiekdee Survival Server is a Minecraft Bedrock vanilla survival server with no world resets, aimed at creating a comfortable survival environment where you can earn achievements. You don't need to download any additional addons to join. By joining this server you agree to the privacy statement and server rules.
 
 Rules:
