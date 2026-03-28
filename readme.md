@@ -21,6 +21,6 @@ Server IP: 147.185.221.24
 Server Port: 3014  
 Discord server: https://discord.gg/hwYxWKX5g
 
-The server is online, you can join it 🥳
+The server is disabled, because new features are being developed
 
 [Read more](https://github.com/Oiekdee-survival-server/deehsmp) | [Read privacy policy](https://github.com/oiekdee/Oiekdee-survival-server/blob/main/privacy%20policy.md) | [Read history](https://github.com/oiekdee/Oiekdee-survival-server/blob/main/history.md)
